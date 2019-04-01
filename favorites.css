@@ -1,0 +1,25 @@
+/*
+* Megan Leach
+* Due date
+* My Favorite Things
+*/
+
+/* The Universal Selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+    background-color: azure;
+}
+
+#louie {width: 260px; height: 230px;} /*this will change the size of the image*/
+
+#friends {width: 300px; height: 240px;}
+
+#family {width: 290px; height: 240px;}
+
+figure {float: left;} /*this will change the placement of all of the figures on the page*/
